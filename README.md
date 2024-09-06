@@ -98,7 +98,7 @@ Feel free to explore the code and make contributions!
 ---
 
 **Contact Information**:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Nicolas Vargas](your-linkedin-url)
+- **Email**: nicolasvargaszz2104@gmail.com
+- **LinkedIn**: [Nicolas Vargas](https://www.linkedin.com/in/nicol%C3%A1s-vargas-41bb67253/)
 
 ---
